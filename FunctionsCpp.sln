@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunctionsCpp", "FunctionsCpp.vcxproj", "{09E8C94E-024D-48B7-B1B4-58CB04B94C03}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParamterPractice", "..\ParamterPractice\ParamterPractice.vcxproj", "{C9A98A3D-5E98-4F6F-9DCA-F4E6644E56C5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParamterPractice", "ParamterPractice\ParamterPractice.vcxproj", "{C9A98A3D-5E98-4F6F-9DCA-F4E6644E56C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
