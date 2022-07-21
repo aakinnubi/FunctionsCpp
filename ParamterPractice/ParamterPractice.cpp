@@ -18,7 +18,6 @@ int main()
     cout << "Guess if number is ven or prime by entering number: " << endl;
     cin >> number;
     cout << "Your guess for prime is " << boolalpha << GuessIsPrime(number) << " While we also test for even on yoru behalf to be " << boolalpha << GuessIsEven(number) << endl;
-
 }
 
 
