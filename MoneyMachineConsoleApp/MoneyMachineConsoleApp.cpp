@@ -61,8 +61,10 @@ void ExcuteTransaction(int& transcationT, double& amount)
 		{
 		case 1:
 			cout << "Your request for a withdrawal of " << to_string(amount) << " is successful. Your new balance is " << WithDrawalAmount(amount) << endl;
+			break;
 		case 2:
 			cout << "Your request for deposit of " << to_string(amount) << " is successful. Your new balance is " << DepositeMoney(amount) << endl;
+			break;
 		default:
 			cout << "Your balance is " << GetBalance() << endl;
 		}
